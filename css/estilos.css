@@ -1,0 +1,72 @@
+body{
+	background-image:url(../img/I6.jpg)
+}
+h1{
+	font-family:Arial;
+	font-size:40px;
+	color:Black;
+	text-align:center;
+}
+h2{
+	font-family:Canva;
+	font-size:25px;
+	color:blue;
+	text-align:center;
+}
+#titulo1{
+	font-family:Canva;
+	font-size:50px;
+	color:violet;
+	text-align:center;
+}
+#t1{
+	font-family:Comic;
+	font-size:50px;
+	color:Green;
+	text-align:center;
+}
+#t2{
+	font-family:Calibri;
+	font-size:50px;
+	color:violet;
+	text-align:center;
+}
+.tx{
+	font-family:Verdana;
+	font-size:30px;
+	color:Red;
+	text-align:center;
+}
+.img{
+	border:10px yellow solid;
+	border-radius:10%;
+	width:
+}
+.img1{
+	border:10px violet solid;
+	border-radius:10%;
+	width:
+}
+.img2{
+	border:10px red solid;
+	border-radius:10%;
+	width:
+}
+.img3{
+	border:10px black solid;
+	border-radius:10%;
+	width:
+}
+.img4{
+	border:10px yellow solid;
+	border-radius:10%;
+	width:
+}
+.img5{
+	border:10px green solid;
+	border-radius:10%;
+	width:
+}
+	
+	
+	
